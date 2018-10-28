@@ -1,5 +1,5 @@
-# UDP_Hi_Speed_SERVER
-ESP8266 GPIO Server
+# Multi Ports UDP Hi-Speed -Server/Client
+ESP8266 GPIO Server/client
 Arduino code for ESP8266 / UDP sending GPIO over wireless
 Within 1ms latency
 
