@@ -1,3 +1,13 @@
+
+//************************************************************
+// Written by Nava Tabkum
+// 10/27/2018
+// 1. USing ESP8266 to receive GPIO by UDP
+// 2. Output to NeoPixel 
+// 3. Fail-safe feature within the code!!! 
+//
+//************************************************************
+
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 #include <Adafruit_NeoPixel.h>
