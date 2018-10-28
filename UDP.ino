@@ -1,3 +1,13 @@
+
+//************************************************************
+// Written by Nava Tabkum
+// 10/27/2018
+// 1. USing ESP8266 to send GPIO by UDP
+// 2. Client is setup to output to NeoPixel 
+//
+//
+//************************************************************
+
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 #include <SimpleTimer.h>
